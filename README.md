@@ -7,8 +7,84 @@
 **Recommended Language:** C++17  
 **Goal:** Pattern Recognition + Placement + Coding Interviews
 
+# 🚀 400 Days DSA Challenge
+
+Solving one DSA problem every day for 400 days.
+
+🎯 Focus: Pattern Recognition & Problem Solving
+💻 Language: C++17
+📚 Platform: GeeksforGeeks
+🔥 Challenge: 400 Days • 400 Problems • Consistency
+
+---
+# 🏢 Companies That Ask DSA Questions
+This repository contains a curated list of companies that frequently ask **Data Structures & Algorithms (DSA)** questions during technical interviews.  
+It is useful for students, job seekers, and professionals preparing for placements or internships.
+
 ---
 
+## 📌 Why DSA Matters
+- DSA is the backbone of problem-solving in coding interviews.
+- Most top tech companies evaluate candidates on their ability to write efficient, optimized solutions.
+- Practicing DSA improves logical thinking, time complexity analysis, and coding speed.
+
+---
+## 🏆 List of Companies
+
+| **Company** | **Industry** |
+|-------------|--------------|
+| Google | Tech/Product |
+| Microsoft | Tech/Product |
+| Amazon | Tech/Product |
+| Meta | Tech/Product |
+| Apple | Tech/Product |
+| Netflix | Tech/Product |
+| Adobe | Tech/Product |
+| Oracle | Tech/Product |
+| Uber | Tech/Product |
+| Airbnb | Tech/Product |
+| LinkedIn | Tech/Product |
+| Salesforce | Tech/Product |
+| NVIDIA | Tech/Product |
+| Intel | Tech/Product |
+| Samsung | Tech/Product |
+| Walmart | Retail/Tech |
+| Flipkart | E-commerce |
+| Paytm | Fintech |
+| PhonePe | Fintech |
+| Razorpay | Fintech |
+| Swiggy | FoodTech |
+| Zomato | FoodTech |
+| Meesho | E-commerce |
+| Myntra | E-commerce |
+| Ola | Mobility |
+| Atlassian | Tech/Product |
+| Goldman Sachs | Finance |
+| Morgan Stanley | Finance |
+ JPMorgan Chase | Finance |
+| American Express | Finance |
+| Visa | Finance |
+| Mastercard | Finance |
+| Cisco | Tech/Product |
+| IBM | Tech/Product |
+| SAP | Tech/Product |
+| Qualcomm | Tech/Product |
+| Dell Technologies | Tech/Product |
+| HP | Tech/Product |
+| PayPal | Fintech |
+| eBay | E-commerce |
+| Bloomberg | Finance/Media |
+| Intuit | Fintech/Software |
+| ServiceNow | Tech/Product |
+| Zoho | Tech/Product |
+| Freshworks | Tech/Product |
+| Cognizant | IT Services |
+| Accenture | IT Services |
+| TCS | IT Services |
+| Infosys | IT Services |
+| Wipro|
+## ⭐ Support
+If this repo helps you in your interview prep, don’t forget to **star** ⭐ the repository!
 ##  Progress Tracker
 
 - [x] Phase 1  DSA Foundations
@@ -18,6 +94,7 @@
 - [ ] 400 Questions Completed
 
 ---
+
 
 # Phase 1: DSA Foundations
 
@@ -546,3 +623,4 @@ Revision Date:
 ##  Final Goal
 
 > **Code memorize mat karo. Pattern samjho, observation pakdo, dry run karo, aur question ko khud se re-solve karo.**
+>
