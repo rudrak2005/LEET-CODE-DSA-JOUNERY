@@ -476,7 +476,7 @@
 
 ---
 
-# ðŸŽ¯ Final Target
+#  Final Target
 
 | Level | Target |
 | --- | ---: |
@@ -488,7 +488,7 @@
 
 ---
 
-# ðŸ§  How to Solve Every Question
+#   How to Solve Every Question
 
 1. Problem ko simple words me samjho.
 2. Input aur output identify karo.
@@ -503,18 +503,18 @@
 
 ---
 
-# ðŸ” Revision Rule
+#  Revision Rule
 
 - **Day 1:** Solve
 - **Day 3:** First Revision
 - **Day 7:** Second Revision
 - **Day 21:** Pattern Revision
 
-Use: `â­ Important` Â· `ðŸ” Re-solve` Â· `âŒ Wrong Approach` Â· `ðŸ’¡ New Pattern` Â· `ðŸŽ¯ Interview`
+Use: `­ Important`  ` Re-solve`  `âŒ Wrong Approach` `New Pattern`  `Interview`
 
 ---
 
-# ðŸ“ Notes Template
+#  Notes Template
 
 ```text
 Question Number:
@@ -543,6 +543,6 @@ Revision Date:
 
 ---
 
-## ðŸš€ Final Goal
+##  Final Goal
 
 > **Code memorize mat karo. Pattern samjho, observation pakdo, dry run karo, aur question ko khud se re-solve karo.**
