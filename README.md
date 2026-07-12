@@ -122,9 +122,9 @@ If this repo helps you in your interview prep, don’t forget to **star** ⭐ th
 - [x] **Q016. Maximum Consecutive Ones** 
 - [x] **Q017. Remove Duplicates from Sorted Array** 
 - [x] **Q018. Best Time to Buy and Sell Stock**
-- [ ] **Q019. Contains Duplicate**
-- [ ] **Q020. Plus One**
-- [ ] **Q021. Merge Sorted Array**
+- [x] **Q019. Contains Duplicate**
+- [x] **Q020. Plus One**
+- [x] **Q021. Merge Sorted Array**
 - [ ] **Q022. Third Maximum Number**
 - [ ] **Q023. Rotate Array**
 - [ ] **Q024. Product of Array Except Self**
