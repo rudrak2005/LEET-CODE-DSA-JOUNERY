@@ -125,11 +125,11 @@ If this repo helps you in your interview prep, don’t forget to **star** ⭐ th
 - [x] **Q019. Contains Duplicate**
 - [x] **Q020. Plus One**
 - [x] **Q021. Merge Sorted Array**
-- [ ] **Q022. Third Maximum Number**
-- [ ] **Q023. Rotate Array**
-- [ ] **Q024. Product of Array Except Self**
-- [ ] **Q025. Set Matrix Zeroes**
-- [ ] **Q026. Sort Colors**
+- [x] **Q022. Third Maximum Number**
+- [x] **Q023. Rotate Array**
+- [x] **Q024. Product of Array Except Self**
+- [x] **Q025. Set Matrix Zeroes**
+- [x] **Q026. Sort Colors**
 - [ ] **Q027. Majority Element II**
 - [ ] **Q028. Next Permutation**
 - [ ] **Q029. Spiral Matrix**
