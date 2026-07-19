@@ -130,8 +130,8 @@ If this repo helps you in your interview prep, don’t forget to **star** ⭐ th
 - [x] **Q024. Product of Array Except Self**
 - [x] **Q025. Set Matrix Zeroes**
 - [x] **Q026. Sort Colors**
-- [ ] **Q027. Majority Element II**
-- [ ] **Q028. Next Permutation**
+- [x] **Q027. Majority Element II**
+- [x] **Q028. Next Permutation**
 - [ ] **Q029. Spiral Matrix**
 - [ ] **Q030. Subarray Sum Equals K**
 - [ ] **Q031. Jump Game**
